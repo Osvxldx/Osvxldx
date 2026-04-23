@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=sklearn" /><br>
   <em>(Adicionalmente, sólido manejo de Excel para análisis exploratorio y limpieza inicial).</em><br><br>
   
-  <strong>Frameworks Backend</strong><br>
+  <strong>Frameworks</strong><br>
   <img src="https://skillicons.dev/icons?i=fastapi,flask" /><br><br>
 
   <strong>Bases de Datos</strong><br>
