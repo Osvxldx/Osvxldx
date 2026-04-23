@@ -9,7 +9,6 @@
 
 <p align="center">
   Soy estudiante de Desarrollo de Software Multiplataforma. Me motiva la innovación, el aprendizaje continuo y el crecimiento profesional. Mi verdadero interés está en el ecosistema de datos: no solo me gusta observarlos, sino utilizarlos para crear modelos matematicos que aporten valor real.<br><br>
-  Actualmente preparándome para mis estadías profesionales (mayo - agosto). Cuento con inglés conversacional (B2), listo para aportar en equipos dinámicos.
 </p>
 
 <br>
